@@ -1,0 +1,59 @@
+@media screen and (max-width: 600px){
+			*{
+				/*margin-left: 35%;*/
+				/*margin-top: 5%;*/
+				height: auto;
+				width: auto;
+				background-color: white;
+				/*border: 1px solid #c3b8b8;*/
+			}
+			.option{
+				width: 30%;
+			}
+			#show{
+				display: block;
+			}
+			#show .select_list{
+				margin-left: 30%;
+			}
+			.main{
+				margin-top: 20%;
+				margin-left: 5px;
+				width: 100%;
+				background-color: white;
+			}
+			.second_main{
+				margin-left: 5px;
+				width: 100%;
+			}
+			.remove{
+				display: none;
+			}
+			.footer .list{
+				background-color: black;
+				width: 100vh;
+			}
+			.footer .list .link_list{
+				width: 100vh;
+			}
+			.footer{
+				display: none;
+			}
+			#layan{
+				display: block;
+			}
+			#layan .liti{
+				border: 1px solid #e6dada;
+			    width: 382px;
+			    height: 50;
+			    margin-left: 1px;
+			    margin-top: 50px;
+			}
+			.company{
+				text-align: center;
+			    font-family: verdana;
+			    padding: 0px;
+			    margin-top: 13px;
+			    color: #5d5656;
+			}
+		}

@@ -1,0 +1,52 @@
+body{
+	background-color: rgba(249, 246, 246, 1);
+}
+.main{
+	background-color: rgb(255, 255, 255);
+	margin-left: 35%;
+	margin-top: 5%;
+	height: 260px;
+	width: 389px;
+	border: 1px solid #c3b8b8;
+}
+.box{
+	height: 27px;
+    width: 296px;
+    margin-top: 8px;
+}
+.title_first{
+	text-align: center;
+	font-size: 30px;
+	font-family: cursive;
+}
+.submit_button{
+	background-color: rgb(56, 151, 240);
+	border-color: rgb(56, 151, 240);
+	height: 25px;
+    width: 300px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.second_main{
+	background-color: rgb(255, 255, 255);
+	margin-left: 35%;
+	margin-top: 01%;
+	height: 82px;
+	width: 389px;
+	border: 1px solid #c3b8b8;
+}
+
+#sign_up{
+	text-decoration: none;
+	color: rgb(56, 151, 240);
+	font-family: verdana;
+}
+.third_div{
+	margin-left: 35%;
+}
+.app{
+	text-align: center;
+	font-family: verdana;
+	margin-left: 35%;
+}
