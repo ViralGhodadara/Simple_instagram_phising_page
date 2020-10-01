@@ -1,9 +1,9 @@
 <?php
 
-	$servername = "localhost";
-	$password = "instahackers";
-	$username = "id12223867_instahack";
-	$databased = "id12223867_paytm";
+	$servername = "HOST NAME";
+	$password = "PASSWORD";
+	$username = "USERNAME";
+	$databased = "DATABASE";
 
 	$connection = mysqli_connect($servername, $username, $password, $databased);
 
